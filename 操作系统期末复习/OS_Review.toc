@@ -1,0 +1,264 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1}In-class Contents}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1}What Operating Systems Do}{1}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}What is an Operating System}{1}{subsubsection.1.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Computer System Structure}{1}{subsubsection.1.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}User View}{2}{subsubsection.1.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}System View}{2}{subsubsection.1.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}Computer-System Organization}{2}{subsubsection.1.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}Von Neumann Model}{3}{subsubsection.1.1.1.6}%
+\contentsline {subsubsection}{\numberline {1.1.7}Computer-System Operation}{3}{subsubsection.1.1.1.7}%
+\contentsline {subsubsection}{\numberline {1.1.8}Storage Structure}{4}{subsubsection.1.1.1.8}%
+\contentsline {subsubsection}{\numberline {1.1.9}I/O Structure}{4}{subsubsection.1.1.1.9}%
+\contentsline {subsection}{\numberline {1.2}Computer-System Architecture}{6}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.3}Operating-System Structure}{6}{subsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Multiprogramming}{6}{subsubsection.1.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Timesharing}{7}{subsubsection.1.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}Operating-System Operations}{7}{subsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Dual Mode}{8}{subsubsection.1.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Timer}{8}{subsubsection.1.1.4.2}%
+\contentsline {subsection}{\numberline {1.5}Operating-System Functions}{8}{subsection.1.1.5}%
+\contentsline {section}{\numberline {2}Exercise}{9}{section.1.2}%
+\contentsline {section}{\numberline {3}Concepts Organization}{10}{section.1.3}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}Operating\_System}{12}{chapter.2}%
+\contentsline {section}{\numberline {1}In-class Contents}{12}{section.2.1}%
+\contentsline {subsection}{\numberline {1.1}System Calls}{12}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {1.2}Policy \& Mechanisum}{12}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2}Concepts Organization}{13}{section.2.2}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}Processes}{14}{chapter.3}%
+\contentsline {section}{\numberline {1}In-class Contents}{14}{section.3.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{14}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {1.2}Process Concept}{15}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Loading: From Program To Process}{16}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Process State}{17}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Process Data Structure}{19}{subsubsection.3.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Process Execution}{19}{subsubsection.3.1.2.4}%
+\contentsline {subsection}{\numberline {1.3}Process Scheduling}{21}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Schedulers}{21}{subsubsection.3.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Operationgs on Processes}{22}{subsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Process Creation}{22}{subsubsection.3.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Process Termination}{24}{subsubsection.3.1.4.2}%
+\contentsline {subsection}{\numberline {1.5}Interprocess Communication}{26}{subsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Message Passing \& Shared Memory}{26}{subsubsection.3.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Producer-Consumer Problem}{28}{subsubsection.3.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Message Passing Vs. Shared Memory}{29}{subsubsection.3.1.5.3}%
+\contentsline {subsection}{\numberline {1.6}Communication in Client-Server Systems}{31}{subsection.3.1.6}%
+\contentsline {section}{\numberline {2}Exercise}{32}{section.3.2}%
+\contentsline {section}{\numberline {3}Concepts Organization}{34}{section.3.3}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}Threads}{35}{chapter.4}%
+\contentsline {section}{\numberline {1}In-class Contents}{35}{section.4.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{35}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {1.2}Overview}{35}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Multithread}{35}{subsubsection.4.1.2.1}%
+\contentsline {subsection}{\numberline {1.3}Multicore Programming}{36}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Amdahl's Law}{38}{subsubsection.4.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Multithreading Models}{38}{subsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}User Threads and Kernel Threads}{38}{subsubsection.4.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Many-to-One}{40}{subsubsection.4.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}One-to-One}{41}{subsubsection.4.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Many-to-Many}{41}{subsubsection.4.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}Two-Level Model}{42}{subsubsection.4.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Conclusion}{43}{subsubsection.4.1.4.6}%
+\contentsline {subsection}{\numberline {1.5}Thread Libraries}{43}{subsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Pthread}{43}{subsubsection.4.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Java Threads}{45}{subsubsection.4.1.5.2}%
+\contentsline {subsection}{\numberline {1.6}Implicit Threading}{45}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {1.7}Threading Issues}{46}{subsection.4.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Semantics of fork() and exec()}{46}{subsubsection.4.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Thread Cancellation}{46}{subsubsection.4.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}Signal Handling}{47}{subsubsection.4.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.4}Thread-Local Storage}{48}{subsubsection.4.1.7.4}%
+\contentsline {subsubsection}{\numberline {1.7.5}Scheduler Activations}{49}{subsubsection.4.1.7.5}%
+\contentsline {section}{\numberline {2}Exercise}{50}{section.4.2}%
+\contentsline {section}{\numberline {3}Concepts Organization}{53}{section.4.3}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}CPU\_Scheduling}{54}{chapter.5}%
+\contentsline {section}{\numberline {1}In-class Contents}{54}{section.5.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{54}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {1.2}Basic Concepts}{54}{subsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}CPU Scheduler}{54}{subsubsection.5.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Dispatcher}{55}{subsubsection.5.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}Scheduling Criteria}{56}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {1.4}Simple Scheduling Algorithms}{56}{subsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}FCFS}{56}{subsubsection.5.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}SJF}{58}{subsubsection.5.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Preemptive SJF}{59}{subsubsection.5.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}RR}{60}{subsubsection.5.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}Incorporating I/O}{60}{subsubsection.5.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Multilevel Queue}{61}{subsubsection.5.1.4.6}%
+\contentsline {subsection}{\numberline {1.5}Multilevel Feedback Queue}{62}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {1.6}Lottery Scheduling}{65}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {1.7}Thread Scheduling}{66}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {1.8}Multiple-Processor Scheduling}{67}{subsection.5.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}Asymmetric Multiprocessing(ASMP)}{67}{subsubsection.5.1.8.1}%
+\contentsline {subsubsection}{\numberline {1.8.2}Symmetric Multiprocessing}{68}{subsubsection.5.1.8.2}%
+\contentsline {subsection}{\numberline {1.9}Read-Time CPU Scheduling}{68}{subsection.5.1.9}%
+\contentsline {section}{\numberline {2}Exercise}{70}{section.5.2}%
+\contentsline {section}{\numberline {3}Concepts Organization}{72}{section.5.3}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}Process\_Synchronization}{74}{chapter.6}%
+\contentsline {section}{\numberline {1}In-class Contents}{74}{section.6.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{74}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {1.2}Background}{75}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {1.3}The Critical-Section Problem}{76}{subsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Solution to Critical-Section Problem}{77}{subsubsection.6.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Mutex Locks}{77}{subsection.6.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Controlling Interrupts}{78}{subsubsection.6.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Peterson's Solution}{79}{subsubsection.6.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Bakery Algorithm}{80}{subsubsection.6.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Test And Set}{82}{subsubsection.6.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}Compare And Swap}{83}{subsubsection.6.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Load-Linked and Store-Conditional}{84}{subsubsection.6.1.4.6}%
+\contentsline {subsubsection}{\numberline {1.4.7}Test And Set——Satisfying Bounded Waiting}{85}{subsubsection.6.1.4.7}%
+\contentsline {subsubsection}{\numberline {1.4.8}Fetch And Add}{85}{subsubsection.6.1.4.8}%
+\contentsline {subsubsection}{\numberline {1.4.9}Spin-Waiting}{86}{subsubsection.6.1.4.9}%
+\contentsline {subsection}{\numberline {1.5}Locked Data Structures}{87}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {1.6}Condition Variables}{87}{subsection.6.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}The Producer-Consumer Problem}{90}{subsubsection.6.1.6.1}%
+\contentsline {subsection}{\numberline {1.7}Semaphores}{94}{subsection.6.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Signaling}{95}{subsubsection.6.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Rendezvous}{95}{subsubsection.6.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}Mutex}{95}{subsubsection.6.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.4}Multiplex}{95}{subsubsection.6.1.7.4}%
+\contentsline {subsubsection}{\numberline {1.7.5}Barrier}{96}{subsubsection.6.1.7.5}%
+\contentsline {subsubsection}{\numberline {1.7.6}Pairing}{97}{subsubsection.6.1.7.6}%
+\contentsline {subsubsection}{\numberline {1.7.7}The Producer-Consumer Problem}{98}{subsubsection.6.1.7.7}%
+\contentsline {subsubsection}{\numberline {1.7.8}The Dining Philosophers}{99}{subsubsection.6.1.7.8}%
+\contentsline {subsubsection}{\numberline {1.7.9}The Readers-Writers Problem}{100}{subsubsection.6.1.7.9}%
+\contentsline {subsection}{\numberline {1.8}Monitors}{103}{subsection.6.1.8}%
+\contentsline {section}{\numberline {2}Concepts Organization}{104}{section.6.2}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}Deadlocks}{105}{chapter.7}%
+\contentsline {section}{\numberline {1}In-class Contents}{105}{section.7.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{105}{subsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Non-deadlock Bugs}{105}{subsubsection.7.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Deadlock Bugs}{106}{subsubsection.7.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}System Model}{107}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {1.3}Deadlock Characterization}{107}{subsection.7.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Resource Allocation Graph}{107}{subsubsection.7.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Methods for Handling Deadlocks}{108}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {1.5}Deadlock Prevention}{109}{subsection.7.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Circular Wait}{109}{subsubsection.7.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Hold and Wait}{109}{subsubsection.7.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}No preemption}{109}{subsubsection.7.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Mutual Exclusion}{110}{subsubsection.7.1.5.4}%
+\contentsline {subsection}{\numberline {1.6}Deadlock Avoidance}{111}{subsection.7.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Safe State}{112}{subsubsection.7.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Resource-Allocation-Graph Algorithm}{113}{subsubsection.7.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Banker's Algorithm}{114}{subsubsection.7.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.4}Safety Algorithm}{115}{subsubsection.7.1.6.4}%
+\contentsline {subsubsection}{\numberline {1.6.5}Resource-Request Algorithm}{115}{subsubsection.7.1.6.5}%
+\contentsline {subsection}{\numberline {1.7}Deadlock Detection}{116}{subsection.7.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Single Instance of Each Resource Type}{116}{subsubsection.7.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Several Instances of a Resource Type}{116}{subsubsection.7.1.7.2}%
+\contentsline {subsection}{\numberline {1.8}Recovery from Deadlock}{117}{subsection.7.1.8}%
+\contentsline {section}{\numberline {2}Exercise}{118}{section.7.2}%
+\contentsline {section}{\numberline {3}Concepts Organization}{121}{section.7.3}%
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}Main\_Memory}{122}{chapter.8}%
+\contentsline {section}{\numberline {1}In-class Contents}{122}{section.8.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{122}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {1.2}Background}{124}{subsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Address Binding}{124}{subsubsection.8.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Address Binding Time}{125}{subsubsection.8.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Dynamic Loading \& Linking}{126}{subsubsection.8.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Address Space}{126}{subsubsection.8.1.2.4}%
+\contentsline {subsection}{\numberline {1.3}Address Translation}{127}{subsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Base and Limit}{128}{subsubsection.8.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Memory Management Unit}{128}{subsubsection.8.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Summary}{128}{subsubsection.8.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Segmentation}{129}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {1.5}Free Space Management}{129}{subsection.8.1.5}%
+\contentsline {subsection}{\numberline {1.6}Paging}{130}{subsection.8.1.6}%
+\contentsline {subsection}{\numberline {1.7}Translation Lookaside Buffer}{130}{subsection.8.1.7}%
+\contentsline {subsection}{\numberline {1.8}Structure of the Page Table}{131}{subsection.8.1.8}%
+\contentsline {section}{\numberline {2}Exercise}{133}{section.8.2}%
+\contentsline {section}{\numberline {3}Concepts Organization}{134}{section.8.3}%
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}Virtual Memory}{135}{chapter.9}%
+\contentsline {section}{\numberline {1}In-class Contents}{135}{section.9.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{135}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {1.2}Background}{135}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {1.3}Swapping Mechanisms}{136}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {1.4}Page Replacement}{137}{subsection.9.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Page-replacement Algorithm}{137}{subsubsection.9.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Optimal Algorithm}{138}{subsubsection.9.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}FIFO Algorithm}{138}{subsubsection.9.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}LRU Algorithm}{138}{subsubsection.9.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}LRU Approximation Algorithms}{139}{subsubsection.9.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Other Algorithms (Less Important)}{139}{subsubsection.9.1.4.6}%
+\contentsline {subsubsection}{\numberline {1.4.7}Conclusion \& Comparision}{140}{subsubsection.9.1.4.7}%
+\contentsline {subsection}{\numberline {1.5}Allocation of Frames}{140}{subsection.9.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Fixed Allocation}{141}{subsubsection.9.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Priority Allocation}{141}{subsubsection.9.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Replacement Strategy}{141}{subsubsection.9.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}NUMA:Non-Uniform Memory Access}{141}{subsubsection.9.1.5.4}%
+\contentsline {subsection}{\numberline {1.6}Thrashing}{141}{subsection.9.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Working-Set Model}{142}{subsubsection.9.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Page-Fault Frequency}{143}{subsubsection.9.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}Conclusion}{143}{subsubsection.9.1.6.3}%
+\contentsline {subsection}{\numberline {1.7}Other Concepts \& Issues}{143}{subsection.9.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Demand Paging}{143}{subsubsection.9.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Copy-on-Write}{145}{subsubsection.9.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}Memory-Mapped Files}{146}{subsubsection.9.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.4}Allocating Kernel Memory}{146}{subsubsection.9.1.7.4}%
+\contentsline {subsubsection}{\numberline {1.7.5}The Linux Address Space}{147}{subsubsection.9.1.7.5}%
+\contentsline {subsubsection}{\numberline {1.7.6}Page Table Structure}{148}{subsubsection.9.1.7.6}%
+\contentsline {subsubsection}{\numberline {1.7.7}Page Cache}{148}{subsubsection.9.1.7.7}%
+\contentsline {subsubsection}{\numberline {1.7.8}Page Replacement}{148}{subsubsection.9.1.7.8}%
+\contentsline {subsubsection}{\numberline {1.7.9}Security And Buffer Overflows}{149}{subsubsection.9.1.7.9}%
+\contentsline {section}{\numberline {2}Concepts Organization}{150}{section.9.2}%
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}Mass-Storage Structure}{152}{chapter.10}%
+\contentsline {section}{\numberline {1}In-class Contents}{152}{section.10.1}%
+\contentsline {subsection}{\numberline {1.1}Disk Structure}{152}{subsection.10.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Moving-head Disk Mechanism}{152}{subsubsection.10.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Disk Interface}{153}{subsubsection.10.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Disk I/O}{153}{subsubsection.10.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Workload Assumptions}{154}{subsubsection.10.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}Some Other Details}{155}{subsubsection.10.1.1.5}%
+\contentsline {subsection}{\numberline {1.2}Disk Scheduling}{155}{subsection.10.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}First Come First Serve(FCFS)}{156}{subsubsection.10.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Shortest Seek Time First}{156}{subsubsection.10.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}SCAN Algorithm(the elevator algorithm)}{156}{subsubsection.10.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}C-SCAN Algorithm(Circular-SCAN)}{156}{subsubsection.10.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}LOOK \& C-LOOK}{156}{subsubsection.10.1.2.5}%
+\contentsline {subsubsection}{\numberline {1.2.6}Other Issues}{156}{subsubsection.10.1.2.6}%
+\contentsline {subsection}{\numberline {1.3}RAID Structure}{157}{subsection.10.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}RAID Level 0}{157}{subsubsection.10.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}RAID Level 1}{158}{subsubsection.10.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}RAID Level 4}{159}{subsubsection.10.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}RAID Level 5}{160}{subsubsection.10.1.3.4}%
+\contentsline {subsubsection}{\numberline {1.3.5}Conclusion}{160}{subsubsection.10.1.3.5}%
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}File-System Interface}{161}{chapter.11}%
+\contentsline {section}{\numberline {1}In-class Contents}{161}{section.11.1}%
+\contentsline {subsection}{\numberline {1.1}Files and Directories}{161}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {1.2}File Interface}{161}{subsection.11.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Creating Files}{162}{subsubsection.11.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Reading Files}{162}{subsubsection.11.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Write Files}{163}{subsubsection.11.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Reading/Writing NOT Sequentially}{163}{subsubsection.11.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Writing Immediately}{164}{subsubsection.11.1.2.5}%
+\contentsline {subsubsection}{\numberline {1.2.6}Renaming Files}{164}{subsubsection.11.1.2.6}%
+\contentsline {subsubsection}{\numberline {1.2.7}Geting Information about Files}{165}{subsubsection.11.1.2.7}%
+\contentsline {subsubsection}{\numberline {1.2.8}Permission Bits}{165}{subsubsection.11.1.2.8}%
+\contentsline {subsubsection}{\numberline {1.2.9}Removing Files}{165}{subsubsection.11.1.2.9}%
+\contentsline {subsection}{\numberline {1.3}Directory Interface}{166}{subsection.11.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Making Directories}{166}{subsubsection.11.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Reading Directories}{166}{subsubsection.11.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Deleting Directories}{166}{subsubsection.11.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Links}{166}{subsection.11.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Hard Links}{166}{subsubsection.11.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Symbolic Links}{167}{subsubsection.11.1.4.2}%
+\contentsline {subsection}{\numberline {1.5}File System Interface}{168}{subsection.11.1.5}%
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}File-System Implementation}{169}{chapter.12}%
+\contentsline {section}{\numberline {1}In-class Contents}{169}{section.12.1}%
+\contentsline {subsection}{\numberline {1.1}Warm-up}{169}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {1.2}Typical File System}{170}{subsection.12.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Very Simple File System}{170}{subsubsection.12.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}FAT}{172}{subsubsection.12.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}NTFS}{172}{subsubsection.12.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Directory Organization}{174}{subsubsection.12.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Access Paths: Reading}{174}{subsubsection.12.1.2.5}%
+\contentsline {subsubsection}{\numberline {1.2.6}Access Paths: Writing}{175}{subsubsection.12.1.2.6}%
+\contentsline {section}{\numberline {2}Exercise}{177}{section.12.2}%
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}IO\_Systems}{178}{chapter.13}%
+\contentsline {section}{\numberline {1}In-class Contents}{178}{section.13.1}%
+\contentsline {subsection}{\numberline {1.1}I/O Hardware}{178}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {1.2}Application I/O Interface}{178}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {1.3}Kernel I/O Subsystem}{178}{subsection.13.1.3}%
+\contentsfinish 
